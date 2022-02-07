@@ -47,6 +47,7 @@ Convert shellcode into ✨ different ✨ formats!
 Written by:
   ~ Mez0
   ~ Michael Ranaldo
+  - tisgo0n (polymorphism & encryption) add-ons
 
 usage: Bluffy [-h] -b  -o  -m
 
